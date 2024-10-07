@@ -1,5 +1,7 @@
 Thank you for choosing to use Blogspot Mobile. This privacy policy explains the information we collect, use, and store during the use of our application. We have created this policy to respect your privacy and to be transparent about how we handle your information.
 
+TEST
+
 1. Collected Information
 
 1.1. Blog Information: Our application allows users to access their own blogs and view content. However, this information is only collected upon the user's request and stored locally within the application. No blog content or information is transmitted to external servers.
